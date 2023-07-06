@@ -52,8 +52,8 @@ searchField.addEventListener("input", function(){
     }
 
     if(searchField.value){
-        searchTimeout =setTimeout(() => {
-            fetchData(url.geo(searchField.value), function(locations) {
+        searchTimeout =setTimeout( async () => {
+            await fetchData(url.geo(searchField.value), function(locations) {
                 searchField.classList.remove("searching");
                 searchResult.classList.add("active");
                 searchResult.innerHTML=`<ul class="view-list" data-search-list></ul>`;
