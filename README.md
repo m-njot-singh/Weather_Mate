@@ -7,7 +7,7 @@ A web app that shows the live weather and 5-day Forecast .
 
 ## Demo
 
-Insert gif or link to demo
+Try it : https://m-njot-singh.github.io/Weather_Mate/
 
 ## Features
 
