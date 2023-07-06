@@ -1,10 +1,6 @@
 # Weather_Mate
 A web app that shows the live weather and 5-day Forecast .
 
-# Project Title
-
-A web app that shows the live weather and 5-day Forecast . 
-
 ## Tech Stack
 
 **Client:** HTML, CSS, JavaScript, API
