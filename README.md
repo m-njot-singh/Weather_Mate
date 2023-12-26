@@ -17,7 +17,7 @@ A web app that shows the live weather and 5-day Forecast .
 
 ## Screenshots
 
-![Header](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/header.png)
+![Header](./assets/IMG/header.png)
 
 ![Current_location_button](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/current_location_button.png)
 
