@@ -19,14 +19,14 @@ A web app that shows the live weather and 5-day Forecast .
 
 ![Header](./assets/IMG/header.png)
 
-![Current_location_button](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/current_location_button.png)
+![Current_location_button](./assets/IMG/current_location_button.png)
 
-![Basic_info](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/basic_info.png)
+![Basic_info](./assets/IMG/basic_info.png)
 
-![Highlight_section](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/highlight_section.png)
+![Highlight_section](./assets/IMG/highlight_section.png)
 
-![Hourly_section](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/hourly_section.png)
+![Hourly_section](./assets/IMG/hourly_section.png)
 
-![5_day_forecast_section](https://github.com/m-njot-singh/Weather_Mate/blob/main/IMG/5_day_forecast_section.png)
+![5_day_forecast_section](./assets/IMG/5_day_forecast_section.png)
 
 
